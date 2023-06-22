@@ -1,0 +1,71 @@
+.about-heading {
+  font-size: 2.5rem;
+  color: #1f4068;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.about-subheading {
+  font-size: 1.8rem;
+  color: #153b50;
+  text-align: center;
+}
+
+.about-content {
+  font-size: 1.4rem;
+  color: #333;
+  margin-top: 2rem;
+  line-height: 1.6;
+}
+
+.about-content p {
+  margin-bottom: 1rem;
+}
+
+.about-content strong {
+  color: #1f4068;
+}
+
+.about-content ul {
+  margin-top: 1rem;
+  padding-left: 1.5rem;
+  color: #333;
+}
+
+.about-content li {
+  margin-bottom: 0.5rem;
+}
+
+.about-container {
+  background-color: #f4f6f9;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.about-container {
+  background-color: #f4f6f9;
+  background-image: url("https://images.unsplash.com/photo-1524313118018-d8139913a0fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHRleHQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60");
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Set the container height to full viewport height */
+}
+
+.about-heading {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.about-subheading,
+.about-content {
+  color: #000;
+  text-align: center;
+  margin-bottom: 1rem;
+}
